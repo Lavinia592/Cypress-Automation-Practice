@@ -1,2 +1,4 @@
 # TestingAutomationPractice
- testing practice with Cypress
+
+ ##Folder Structure for test:
+ cypress/e2e
